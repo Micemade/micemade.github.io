@@ -3,11 +3,11 @@ Micemade is a one person company creating code for WordPress since 2009.
 From the introduction of custom meta, custom post types and taxonomies to the AI in WordPress, I am here.
 
 What my mice built:
-> custom WP sites built for small/medium businesses,
-> local hospitality industry directory,
-> Premium WP/WOO themes (sold on Theme Forest/Envato)
-> Building and maintaining local Woo shop 15+ years (until 2023) [HADDAD.HR](https://haddad.hr)
-> Creating WordPress block themes and block plugins
+* custom WP sites built for small/medium businesses,
+* local hospitality industry directory,
+* Premium WP/WOO themes (sold on Theme Forest/Envato)
+* Building and maintaining local Woo shop 15+ years (until 2023) [HADDAD.HR](https://haddad.hr)
+* Creating WordPress block themes and block plugins
 
 ## WordPress Plugins
 - Over the years there have been a number of WordPres plugins and themes created, some are still alive, some of which are hosted on WordPress.org, some on GitHub, and there are some that the time has removed from the usefulness.
