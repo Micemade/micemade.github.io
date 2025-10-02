@@ -1,9 +1,19 @@
 title: Micemade
-description: Code created by Mice. Mostly WordPress related | Micemade
+description: Code by Micemade. Mostly WordPress related.
 show_downloads: false
 remote_theme: jekyll/minima
 minima:
+  skin: dark
   nav_pages:
     - about.md
     - portfolio.md
+  social_links:
+    - title: Micemade repository at GitHub
+      icon: github
+      url: "https://github.com/Micemade"
+    - title: Micemade at X (formerly Twitter)
+      icon: x-twitter
+      url: "https://x.com/theMicemade"
 # theme: jekyll-theme-minima
+author:
+  name: Alen Širola @ Micemade
