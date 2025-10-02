@@ -24,6 +24,7 @@ I've created a number of WordPres plugins and themes, some are still alive, some
 ## WordPress / WoocCommerce plugins (Premium)
 - [Mosaic Product Layouts](https://woocommerce.com/products/mosaic-product-layouts/)
 
+---
 
 Visit my webpage: [Micemade.com](https:micemade.com/)
 
