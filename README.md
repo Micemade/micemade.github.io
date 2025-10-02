@@ -26,4 +26,5 @@ I've created a number of WordPres plugins and themes, some are still alive, some
 
 
 Visit my webpage: [Micemade.com](https:micemade.com/)
+
 Visit my GitHub profile: [Micemade GitHub](https://github.com/Micemade/)
