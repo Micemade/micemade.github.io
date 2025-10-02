@@ -14,12 +14,12 @@ From the introduction of custom meta, custom post types and taxonomies, to the A
 I've created a number of WordPres plugins and themes, some are still alive, some of which are hosted on WordPress.org, some on GitHub, and there are some that the time has removed from the usefulness.
 
 - WordPress.org:
-[WCSpots](https://wordpress.org/plugins/wcspots)
-[Blockette](https://wordpress.org/themes/blockette/)
+  - [WCSpots](https://wordpress.org/plugins/wcspots)
+  - [Blockette](https://wordpress.org/themes/blockette/)
 
 - Github:
-[Micemade Elements](https://github.com/Micemade/micemade-elements)
-[WooCommerce Local Pickup Plus](https://github.com/Micemade/woocommerce-local-pickup-plus/)
+  - [Micemade Elements](https://github.com/Micemade/micemade-elements)
+  - [WooCommerce Local Pickup Plus](https://github.com/Micemade/woocommerce-local-pickup-plus/)
 
 ## WordPress / WoocCommerce plugins (Premium)
 - [Mosaic Product Layouts](https://woocommerce.com/products/mosaic-product-layouts/)
