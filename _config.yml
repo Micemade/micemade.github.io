@@ -2,5 +2,5 @@ title: Micemade
 #logo
 description: Code created by Mice. Mostly WordPress related | Micemade
 show_downloads: true
-remote_theme: pages-themes/architect@v0.2.0
+remote_theme: pages-themes/modernist@v0.2.0
 #theme: jekyll-theme-minimal
